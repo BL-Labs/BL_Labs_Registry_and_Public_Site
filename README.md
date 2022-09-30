@@ -1,2 +1,2 @@
-# BL_Labs_Registry_and_Public_Site
-Internal tools
+# BL Labs Registry and Public Site
+Data export and injest tools (for internal use)
