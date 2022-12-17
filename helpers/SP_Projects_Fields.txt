@@ -1,0 +1,48 @@
+Title
+Status
+Team/Department
+Collab with
+Category
+Code Location
+Outcome
+Contact (BL)
+IT Lead (BL)
+IT Lead (External)
+Other People
+Project Goal
+Project Info
+Re-Usable?
+Dataset Used
+Dataset Notes
+Funding
+External Partners
+Doc. available?
+Doc. Notes
+Doc. Link
+Online Articles (External)
+Scholarly Article?
+Derivative Data?
+Attachments
+Created
+Modified By
+Version
+Released
+Release Version
+Released by
+IDEA Project
+IDEA Which Dataset
+IDEA Entire Dataset or Part
+IDEA Other Dataset
+IDEA Dataset Details
+IDEA Intend Use
+IDEA Your Skills
+IDEA Deadline
+IDEA Project Details
+IDEA Help Needed
+IDEA Looking for Collaborators
+IDEA Promotion Needed
+IDEA Funding Status
+IDEA Funding Details
+IDEA Submitted by
+E-mail
+Institution
