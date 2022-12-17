@@ -1,19 +1,24 @@
 Title
 Status
 Team/Department
-Collab with
+Partners
 Category
-Code Location
 Outcome
+Project Goal
+Project Summary
+Re-Usable?
+Non Re-Usable Reasons
+Code Location
+Code URL
+Project URL
 Contact (BL)
 IT Lead (BL)
 IT Lead (External)
-Other People
-Project Goal
-Project Info
-Re-Usable?
+Project Team
 Dataset Used
 Dataset Notes
+Usage
+Funded
 Funding
 External Partners
 Doc. available?
@@ -29,20 +34,23 @@ Version
 Released
 Release Version
 Released by
+Project Dates
 IDEA Project
 IDEA Which Dataset
 IDEA Entire Dataset or Part
-IDEA Other Dataset
-IDEA Dataset Details
+IDEA Other Dataset Name
 IDEA Intend Use
 IDEA Your Skills
+IDEA Start Date
 IDEA Deadline
 IDEA Project Details
 IDEA Help Needed
-IDEA Looking for Collaborators
+IDEA Looking for Collaborators (Y/N)
+IDEA Looking for Collaborators / Partners
 IDEA Promotion Needed
 IDEA Funding Status
 IDEA Funding Details
 IDEA Submitted by
 E-mail
 Institution
+IDEA Current team members and/or partners
