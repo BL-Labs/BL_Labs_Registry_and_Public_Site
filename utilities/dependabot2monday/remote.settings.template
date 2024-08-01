@@ -1,0 +1,10 @@
+[general]
+progressdb_path= progress.db
+[github]
+owner = github-owner
+token = github-access-token
+[mondaycom]
+api_key = monday-api-key
+board_id = numeric-id-for-your-board
+group_id = key-for-group
+user_id = id-of-user-to-post-under
